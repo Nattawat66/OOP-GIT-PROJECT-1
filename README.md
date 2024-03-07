@@ -17,7 +17,7 @@
 
 #video: 
 
-link [public/ubu]
+* .
 
 
 
